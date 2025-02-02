@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\assets\\scripts\\animal\\fsm\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\fsm\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\assets\\scripts\\animal\\controller\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\controller\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\assets\\scripts\\animal\\fsm\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\fsm\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\assets\\scripts\\animal\\controller\\lootingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\controller\\lootingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\assets\\scripts\\animal\\fsm\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\fsm\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\assets\\scripts\\animal\\controller\\deermale\\deermale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\controller\\deermale\\deermale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\assets\\scripts\\animal\\controller\\bear\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\controller\\bear\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|c:\\users\\asus\\desktop\\vrp24\\echoisland\\assets\\scripts\\animal\\fsm\\escapestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\fsm\\escapestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\assets\\scripts\\animal\\fsm\\eatstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160C3BF8-702D-1CD4-47D1-755B00F86016}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\fsm\\eatstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T19:19:24.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bear.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\Controller\\Bear\\Bear.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\Controller\\Bear\\Bear.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\Controller\\Bear\\Bear.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\Controller\\Bear\\Bear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:07:12.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeerMale.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\Controller\\DeerMale\\DeerMale.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\Controller\\DeerMale\\DeerMale.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\Controller\\DeerMale\\DeerMale.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\Controller\\DeerMale\\DeerMale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:59:45.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChaseState.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\FSM\\ChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\FSM\\ChaseState.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\FSM\\ChaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\FSM\\ChaseState.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwFAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:33:45.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttackState.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\FSM\\AttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\FSM\\AttackState.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\FSM\\AttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\FSM\\AttackState.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAkwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:30:32.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EatState.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\FSM\\EatState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\FSM\\EatState.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\FSM\\EatState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\FSM\\EatState.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:25:35.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\Controller\\AnimalController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\Controller\\AnimalController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\Controller\\AnimalController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\Controller\\AnimalController.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAIwPoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:07:35.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EscapeState.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\FSM\\EscapeState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\FSM\\EscapeState.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\FSM\\EscapeState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\FSM\\EscapeState.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:56:11.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatrolState.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\FSM\\PatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\FSM\\PatrolState.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\FSM\\PatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\FSM\\PatrolState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:44:03.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LootingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\Controller\\LootingSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\Controller\\LootingSystem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\VRP24\\EchoIsland\\Assets\\Scripts\\Animal\\Controller\\LootingSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\Controller\\LootingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:07:39.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

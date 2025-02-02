@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Eco Rescue\\assets\\scripts\\animal\\controller\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\controller\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Eco Rescue\\assets\\scripts\\animal\\fsm\\eatstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\fsm\\eatstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Eco Rescue\\assets\\scripts\\animal\\fsm\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\fsm\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Eco Rescue\\assets\\scripts\\animal\\fsm\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\fsm\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Eco Rescue\\assets\\scripts\\animal\\controller\\animalfsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\controller\\animalfsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|c:\\users\\asus\\desktop\\eco rescue\\assets\\scripts\\animal\\fsm\\escapestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\fsm\\escapestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\Desktop\\Eco Rescue\\assets\\scripts\\animal\\fsm\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63E5E9-2F22-FEE1-9633-0AB27582F2FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animal\\fsm\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EscapeState.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\FSM\\EscapeState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\FSM\\EscapeState.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\FSM\\EscapeState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\FSM\\EscapeState.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T19:06:19.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimalFSM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\Controller\\AnimalFSM.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\Controller\\AnimalFSM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\Controller\\AnimalFSM.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\Controller\\AnimalFSM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:54:40.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttackState.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\FSM\\AttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\FSM\\AttackState.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\FSM\\AttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\FSM\\AttackState.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:15:35.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChaseState.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\FSM\\ChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\FSM\\ChaseState.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\FSM\\ChaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\FSM\\ChaseState.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:15:13.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\Controller\\AnimalController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\Controller\\AnimalController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\Controller\\AnimalController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\Controller\\AnimalController.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAAK0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:09:53.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EatState.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\FSM\\EatState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\FSM\\EatState.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\FSM\\EatState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\FSM\\EatState.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:45:00.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatrolState.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\FSM\\PatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animal\\FSM\\PatrolState.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Eco Rescue\\Assets\\Scripts\\Animal\\FSM\\PatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animal\\FSM\\PatrolState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:08:49.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
